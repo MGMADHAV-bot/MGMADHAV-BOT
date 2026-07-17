@@ -29,11 +29,11 @@ Here are the projects I have developed to practice advanced database querying, o
 * **[spotify_p4](https://github.com/MGMADHAV-bot/spotify_p4)**: **Spotify Data Analysis** – Performed analytical queries on music streaming datasets to evaluate artist performance, track popularity metrics, and user preferences.
 
 ---
+---
 
 ### 📈 My GitHub Journey
-
-![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MGMADHAV-bot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGMADHAV-bot&layout=compact&theme=radical)
+📊 **My GitHub Contributions Block:**
+![](https://ghchart.rshah.org/MGMADHAV-bot)
 
 
 ---

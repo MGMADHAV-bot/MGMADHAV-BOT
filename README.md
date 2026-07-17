@@ -35,6 +35,7 @@ Here are the projects I have developed to practice advanced database querying, o
 ![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MGMADHAV-bot&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGMADHAV-bot&layout=compact&theme=radical)
 
+
 ---
 
 ### 🌐 Let's Connect!
